@@ -1,4 +1,4 @@
-# doctor-visits-healthcare-analytic
+# Doctor-Visits-Healthcare-Analytic
 
 # Healthcare Analytics for Doctor Visits
 
